@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Durga Machari!
+**Aspiring Data Analyst | Data Enthusiast | Problem Solver**
 
-<!--
-**DurgaMachari/DurgaMachari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I’m passionate about turning raw data into meaningful insights.  
+📚 Currently learning and building projects in SQL, Excel, Power BI, and Python.
 
-Here are some ideas to get you started:
+### 🌟 Skills:
+- Excel | SQL | Python | Power BI | Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects:
+- [Expense Tracker App (Excel)](link-to-project)
+- [Data Dashboard (Power BI)](link-to-project)
+- [Sales Analysis Report (SQL & Excel)](link-to-project)
+
+### 📫 How to reach me:
+- 📧 Email: dpkmachari@gmail.com
+- 🌐 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+
+
+*"Data is the new oil. Let's drill it smartly!"* 🚀
